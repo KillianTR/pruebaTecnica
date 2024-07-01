@@ -1,29 +1,24 @@
 const articles = [
     {
-        id: 1,
-        titular: 'Primer artículo',
-        contenido: 'Este es el contenido del primer artículo.'
+        titular: 'Feastables',
+        contenido: 'Barra de chocolate con leche'
     },
     {
-        id: 2,
-        titular: 'Segundo artículo',
-        contenido: 'Este es el contenido del segundo artículo.'
+        titular: 'BIG DAY',
+        contenido: 'Bebida energética'
     },
     {
-        id: 3,
-        titular: 'Tercer artículo',
-        contenido: 'Este es el contenido del tercer artículo.'
+        titular: 'PRIME',
+        contenido: 'Bebida energética'
     },
     {
-        id: 4,
-        titular: 'Cuarto artículo',
-        contenido: 'Este es el contenido del cuarto artículo.'
+        titular: 'YOUTOOZ',
+        contenido: 'Figuras de creadores de contenido'
     },
     {
-        id: 5,
-        titular: 'Quinto artículo',
-        contenido: 'Este es el contenido del quinto artículo.'
+        titular: 'Smash Hiro',
+        contenido: 'Hamburguesas'
     }
 ];
 
-console.log(articles);
+console.log(articles); // Solo para verificar en la consola
