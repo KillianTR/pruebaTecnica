@@ -21,4 +21,4 @@ const articles = [
     }
 ];
 
-console.log(articles); // Solo para verificar en la consola
+console.log(articles);
